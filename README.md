@@ -18,8 +18,8 @@ This repository provides tools and resources for detecting intracranial hemorrha
 
 ### Software
 - Python 3.8 or later
-- Required libraries (listed in `requirements.txt`):
-  - TensorFlow or PyTorch
+- Required libraries:
+  - TensorFlow 
   - NumPy
   - Pandas
   - Scikit-learn
